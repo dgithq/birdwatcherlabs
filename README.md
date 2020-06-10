@@ -1,9 +1,5 @@
 # birdwatcherlabs.com
 ## Easy Webserver Configuration
-
-### Download this repository
-`git clone https://github.com/dgithq/birdwatcherlabs`
-
 ### Get Docker image
 Download the image from Docker Hub:
 
