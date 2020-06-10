@@ -4,12 +4,8 @@
 ### Download this repository
 `git clone https://github.com/dgithq/birdwatcherlabs`
 
-### Build Docker image
-Enter the directory of the repository and run:
-
-`docker build -tag webserver:latest .`
-
-Alternatively, you can download the image from Docker Hub:
+### Get Docker image
+Download the image from Docker Hub:
 
 `docker pull dqiao235/webserver:latest`
 
